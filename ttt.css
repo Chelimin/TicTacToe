@@ -1,0 +1,43 @@
+h1{
+  color:red;
+  padding-left:100px;
+}
+
+select {
+    padding:3px;
+    margin: 0;
+    background: #f8f8f8;
+    color:#888;
+    border:none;
+    outline:none;
+    display: inline-block;
+    cursor:pointer;
+    width:100px;
+}
+
+
+.minContainer {
+    padding: 20px;
+    padding-right: 30px;
+    position: absolute;
+}
+
+table {
+    border-collapse:collapse;
+    table-layout: fixed;
+    border-spacing: 0;
+}
+.td {
+    border: 2px solid #cccccc;
+    font-size:40px;
+    font-family:"Helvetica";
+    color:#ccc;
+    line-height: 1.428571429;
+    width: 100px;
+    height: 100px;
+    min-width: 100px;
+    max-width: 100px;
+    min-height: 100px;
+    max-height: 100px;
+    text-align: center;
+}
